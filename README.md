@@ -9,6 +9,7 @@ AtliQ Hardware operates in the global hardware market, products such as PCs, mic
 **Sales Analysis**
 
 **1.	Customer Net Sales Performance Report:** Overview of revenue generated from customers.
+<img width="698" height="906" alt="image" src="https://github.com/user-attachments/assets/53877d11-69da-4dd7-8c08-6347e1d74a5c" />
 
 **2.	Market Performance vs Sales Targets Comparison:** Evaluation of sales performance in comparison to targets and market conditions.
 
@@ -21,3 +22,10 @@ AtliQ Hardware operates in the global hardware market, products such as PCs, mic
 **6.	New Products in 2021:** List the products that were newly introduced by Atliq in 2021.
 
 **7.	Top 5 Country in 2021:** Determine the five countries that recorded the highest sales in 2021.
+
+**Finance Analysis**
+
+**1.	Yearly Profit and Loss (P&L) Report:** Financial performance breakdown for each fiscal year.
+**2.	Profit and Loss (P&L) by Month Report:** Financial performance trends quarterly.
+**3.	Market-Specific Profit and Loss (P&L) Report:** Performance breakdown for each market.
+**4.	Quarterly Gross Margin Percentage (GM%) by Sub Zone:** Profitability view by geographic area.
