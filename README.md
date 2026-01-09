@@ -33,3 +33,29 @@ AtliQ Hardware operates in the global hardware market, products such as PCs, mic
 * Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 * Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+**Here’s a glimpse of what I learned:**
+
+✅ Excel Fundamentals: Built a strong foundation in formulas, structured tables, and data visualization using charts.
+
+✅ Advanced Lookup Functions: Proficient in VLOOKUP, XLOOKUP, INDEX, and MATCH to improve data retrieval accuracy and efficiency.
+
+✅ Business Mathematics & Statistics: Gained a solid understanding of core statistical and financial concepts to support data-driven analysis.
+
+✅ Pivot Table Expertise: Developed the ability to create, optimize, and analyze pivot tables for effective data summarization and insights.
+
+✅ Data Transformation with Power Query: Learned to clean, transform, and model data efficiently for analysis-ready datasets.
+
+✅ Domain Knowledge (Sales & Finance): Acquired functional understanding of sales and finance domains to apply analytical insights in real business scenarios.
+
+✅ Power Pivot for Data Modelling
+
+✅ DAX Measures for Calculated Columns
+
+✅ Conditional Formatting to highlight pertinent data points for stakeholders
+
+✅ Proficiency in ETL methodology (Extract, Transform, Load)
+
+✅ Ability to derive fiscal months and quarters
+
+  
