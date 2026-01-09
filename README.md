@@ -6,39 +6,30 @@ Atliq Hardware sells a variety of hardware products such as personal computers, 
 
 AtliQ Hardware operates in the global hardware market, products such as PCs, mice, printers, and keyboards. The company faces the challenge of optimizing sales performance while improving net gross margins.
 
-**Sales Analysis**
+**Sales Analysis:**
 
-**1.	Customer Net Sales Performance Report:** Overview of revenue generated from customers.
+* Project objective:
 
+1. Create a [customer performance report](https://github.com/tanyathakur28/Sales_and_Finance_Analytics--EXCEL/blob/main/Customer%20Performance.pdf)
 
-**2.	Market Performance vs Sales Targets Comparison:** Evaluation of sales performance in comparison to targets and market conditions.
+2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/tanyathakur28/Sales_and_Finance_Analytics--EXCEL/blob/main/Market%20Performance%20vs%20Target.pdf)
 
+* Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
-**3.	Top 10 Products:** Identify the ten products that showed the highest growth in sales between 2020 and 2021.
+* Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
 
+* Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-**4.	Division Level Report:** Prepare a division-wise analysis comparing total revenue for 2020 and 2021, along with the overall sales growth.
+**Finance Report:**
 
+* Project objective:
 
-**5.	Top and Bottom 5 Products:** Analyze product sales quantities to determine the top five and bottom five products.
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/tanyathakur28/Sales_and_Finance_Analytics--EXCEL/blob/main/P%20%26%20L%20Year.pdf) & [Months](https://github.com/tanyathakur28/Sales_and_Finance_Analytics--EXCEL/blob/main/P%20%26%20L%20Months%20report.pdf)
 
+2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/tanyathakur28/Sales_and_Finance_Analytics--EXCEL/blob/main/P%20%26%20L%20for%20market.pdf)
 
-**6.	New Products in 2021:** List the products that were newly introduced by Atliq in 2021.
+* Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
+* Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-**7.	Top 5 Country in 2021:** Determine the five countries that recorded the highest sales in 2021.
-
-
-**Finance Analysis**
-
-
-**1.	Yearly Profit and Loss (P&L) Report:** Financial performance breakdown for each fiscal year.
-
-
-**2.	Profit and Loss (P&L) by Month Report:** Financial performance trends quarterly.
-
-
-**3.	Market-Specific Profit and Loss (P&L) Report:** Performance breakdown for each market.
-
-
-**4.	Quarterly Gross Margin Percentage (GM%) by Sub Zone:** Profitability view by geographic area.
+* Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
